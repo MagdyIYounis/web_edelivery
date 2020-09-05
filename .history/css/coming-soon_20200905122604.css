@@ -40,7 +40,7 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../img/bg-mobile-fallback.jpg") #ff7800 no-repeat center
+    background: url("../img/bg-mobile-fallback.jpg") #002e66 no-repeat center
       center scroll;
     background-size: cover;
   }
@@ -76,7 +76,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: rgba(255, 120, 0, 0.8);
+  background-color: rgba(0, 46, 102, 0.8);
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
